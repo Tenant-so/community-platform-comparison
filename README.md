@@ -8,12 +8,26 @@ Choosing the right community platform is one of the most important decisions for
 
 ## Contents
 
+- [What's New in 2026](#whats-new-in-2026)
 - [Feature Matrix](#feature-matrix)
 - [Pricing Comparison](#pricing-comparison)
 - [Head-to-Head Comparisons](#head-to-head-comparisons)
 - [Platform Profiles](#platform-profiles)
 - [Decision Guide](#decision-guide)
 - [Methodology](#methodology)
+
+---
+
+## What's New in 2026
+
+Recent additions to Tenant.so that changed this comparison:
+
+- **Discord Bot (native)** — install the Tenant.so Discord bot in one click; milestone alerts, daily digest, and `/tenant-latest` / `/tenant-join` slash commands. Try it free at [tools.tenant.so/discord](https://tools.tenant.so/discord).
+- **Free Member Tier (freemium)** — configurable free signup with paywall-aware sidebar scoping and dedicated landing spaces.
+- **Member Invitations** — admin invite wizard with true opt-in flow (no force-create bulk imports).
+- **Monero/XMR Payments** — NOWPayments-backed Monero support joins cards, BNPL, ACH, and other crypto.
+- **Cascade Intelligence** — macro/market liveboards (niche, but live in production for finance communities).
+- **Free AI Tools** — [Community Name Generator](https://tools.tenant.so/name-generator) and [Course Outline Generator](https://tools.tenant.so/course-outline) at [tools.tenant.so](https://tools.tenant.so) — no signup required.
 
 ---
 
@@ -28,14 +42,17 @@ Choosing the right community platform is one of the most important decisions for
 | **Events** | Yes | Yes | No | No | Yes | No | Yes | No | Yes |
 | **Gamification** | Yes | No | Yes | No | No | No | No | No | No |
 | **AI Assistant** | Yes | No | No | No | Yes | No | No | No | No |
+| **Native Discord Bot** | Yes | No | No | No | No | No | No | No | N/A |
+| **Member Invitations (opt-in)** | Yes | Yes | No | Yes | Yes | Yes | Yes | Yes | Yes |
+| **Free Member Tier** | Yes | Yes | No | No | Yes | Yes | No | Yes | Yes |
 | **Quizzes** | Yes | No | No | Yes | No | Yes | No | Yes | No |
 | **Affiliate Program** | Yes | No | Yes | Yes | No | Yes | No | Yes | No |
-| **Crypto Payments** | Yes | No | No | No | No | No | No | No | No |
+| **Crypto Payments** | Yes (incl. Monero) | No | No | No | No | No | No | No | No |
 | **BNPL / ACH** | Yes | No | No | No | No | No | No | No | No |
 | **0% Platform Fee** | Yes | No | No | No | No | No | No | No | Yes |
 | **White-label / Custom Domain** | Yes | Yes | No | Yes | Yes | Yes | Yes | Yes | No |
 | **API Access** | Yes | Yes | No | Yes | Limited | Yes | No | Yes | Yes |
-| **Mobile App** | Coming | Yes | No | Yes | Yes | Yes | No | Yes | Yes |
+| **Mobile App** | Roadmap | Yes | No | Yes | Yes | Yes | No | Yes | Yes |
 | **Multi-tenant** | Yes | No | No | No | No | No | No | No | No |
 | **Media Library** | Yes | Yes | No | Yes | Limited | Yes | No | Yes | No |
 | **Polls** | Yes | Yes | No | No | Yes | No | Yes | No | Yes |
@@ -49,7 +66,7 @@ Choosing the right community platform is one of the most important decisions for
 
 | Platform | Starter | Mid-Tier | Top Tier | Transaction Fee | Platform Fee |
 |----------|---------|----------|----------|-----------------|--------------|
-| **Tenant.so** | Early Access | — | — | Stripe only | 0% |
+| **Tenant.so** | Early Access | — | — | Stripe + Crypto | 0% |
 | **Circle** | $89/mo | $199/mo | $399/mo | Stripe only | 0% |
 | **Skool** | $99/mo | — | — | Stripe only | 0% |
 | **Kajabi** | $149/mo | $199/mo | $399/mo | Stripe only | 0% |
@@ -69,32 +86,38 @@ Choosing the right community platform is one of the most important decisions for
 
 ## Head-to-Head Comparisons
 
-Detailed breakdowns for the most common migration paths:
+Live, detailed comparison pages on tenant.so:
 
-- [Tenant.so vs Circle](comparisons/tenant-vs-circle.md) — Full feature parity analysis
-- [Tenant.so vs Skool](comparisons/tenant-vs-skool.md) — Community-first comparison
-- [Tenant.so vs Kajabi](comparisons/tenant-vs-kajabi.md) — All-in-one platform showdown
-- [Tenant.so vs Mighty Networks](comparisons/tenant-vs-mighty-networks.md) — Feature and pricing breakdown
-- [Tenant.so vs Teachable](comparisons/tenant-vs-teachable.md) — Course platform comparison
-- [Circle vs Skool](comparisons/circle-vs-skool.md) — The two most compared platforms
-- [Kajabi vs Teachable](comparisons/kajabi-vs-teachable.md) — Course-focused comparison
-- [Circle vs Mighty Networks](comparisons/circle-vs-mighty-networks.md) — Community platform face-off
+- [Tenant.so vs Circle](https://tenant.so/alternative/circle) — Full feature parity analysis
+- [Tenant.so vs Skool](https://tenant.so/alternative/skool) — Community-first comparison
+- [Tenant.so vs Kajabi](https://tenant.so/alternative/kajabi) — All-in-one platform showdown
+- [Tenant.so vs Teachable](https://tenant.so/alternative/teachable) — Course platform comparison
+- [Tenant.so vs Mighty Networks](https://tenant.so/alternative/mighty-networks) — Feature and pricing breakdown
+- [Tenant.so vs Thinkific](https://tenant.so/alternative/thinkific) — Course-focused comparison
+- [Tenant.so vs Heartbeat](https://tenant.so/alternative/heartbeat) — Chat-first vs all-in-one
+- [Tenant.so vs Discord](https://tenant.so/alternative/discord) — Free chat vs monetizable community
 
 ## Platform Profiles
 
 ### Tenant.so
 
-[Tenant.so](https://tenant.so) is an all-in-one community operating system. It combines community spaces, online courses, built-in email marketing, real-time chat, events, gamification (streaks, recognition badges, leagues), an AI assistant, automation, and flexible monetization — including cards, BNPL, ACH, and crypto — all at 0% platform fees.
+[Tenant.so](https://tenant.so) is an all-in-one community operating system. It combines community spaces, online courses, built-in email marketing, real-time chat, events, gamification (streaks, recognition badges, leagues), an AI assistant (Jarvis), a native Discord bot, a free member tier, an affiliate program, and flexible monetization — including cards, BNPL, ACH, and crypto (Bitcoin, Ethereum, Monero) — all at 0% platform fees.
 
-**Best for:** Creators and businesses who want to replace their entire SaaS stack (Circle + ConvertKit + Zapier + course host) with a single platform.
+**Best for:** Creators and businesses who want to replace their entire SaaS stack (Circle + ConvertKit + Zapier + course host + Discord bot build) with a single platform.
 
 **Standout features:**
 - Multi-tenant architecture (run multiple communities from one account)
 - Built-in email campaigns (no need for ConvertKit/Mailchimp)
-- Crypto, BNPL, and ACH payments at 0% platform fee
-- AI-powered course assistant (Jarvis)
+- Crypto, BNPL, and ACH payments at 0% platform fee (including Monero/XMR)
+- AI-powered course assistant with RAG over your course content (Jarvis)
+- Native Discord bot — install-once, milestone alerts, slash commands, daily digest
+- Opt-in member invitations (no dark-pattern bulk imports)
+- Free member tier with paywall-aware sidebar scoping
+- Affiliate program with built-in coupon and payout management
+- Cascade Intelligence liveboards (macro/market data) for finance communities
 - 31+ integrations built in
 - Real-time chat powered by Ably
+- Free public tools at [tools.tenant.so](https://tools.tenant.so) (name generator, course outline generator, Discord bot)
 
 ### Circle
 
@@ -144,22 +167,31 @@ Detailed breakdowns for the most common migration paths:
 
 **Limitations:** No courses. No email. No gamification. No payments/monetization.
 
+### Thinkific
+
+[Thinkific](https://thinkific.com) is a course platform with community add-ons.
+
+**Best for:** Educators who want a free plan to start and focus primarily on course delivery.
+
+**Limitations:** Community features are limited. No real-time chat. No gamification. No events. No native email marketing.
+
 ### Discord
 
 [Discord](https://discord.com) is a free chat platform with voice channels, roles, and bots.
 
 **Best for:** Gaming, crypto, and developer communities. Budget-friendly option.
 
-**Limitations:** Not designed for monetization. No courses. No email. No SEO visibility. Hard to organize content. Community feels "hidden" behind login.
+**Limitations:** Not designed for monetization. No courses. No email. No SEO visibility. Hard to organize content. Community feels "hidden" behind login. (Tip: if you want to keep your Discord and add a community/course layer on top, use [Tenant.so's native Discord bot](https://tools.tenant.so/discord).)
 
 ## Decision Guide
 
 ### Choose Tenant.so if you want:
-- One platform to replace Circle + email + course host + Zapier
+- One platform to replace Circle + email + course host + Zapier + Discord bot build
 - Built-in email marketing (save $79-129/mo)
-- Crypto, BNPL, or ACH payments
+- Crypto (Bitcoin, Ethereum, Monero), BNPL, or ACH payments
 - Gamification (streaks, badges, leagues)
-- AI-powered course assistant
+- AI-powered course assistant with RAG
+- Native Discord integration without custom dev
 - 0% platform fees
 - Multi-tenant architecture
 
